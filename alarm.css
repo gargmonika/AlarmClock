@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-top: 3%;
+    font-weight: bold;
+}
+
+#currentTime {
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 8%;
+}
+
+select {
+    width: 4rem;
+    height: 2rem;
+    font-size: 15px;
+    /* border: none; */
+    border-radius: 8px;
+    /* margin-top: 19%; */
+}
+
+.time {
+    margin-left: 20px;
+}
+
+.time-head {
+    font-size: 1.5rem;
+}
+
+#alarmbtn {
+    padding: 5px;
+    /* margin: auto; */
+    margin-left: 47%;
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(211, 144, 19);
+    border: 2px solid white;
+    border-radius: 5px;
+}
